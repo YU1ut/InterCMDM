@@ -1,6 +1,6 @@
 # InterCMDM
 
-This repository contains materials developed by LY Corporation and is temporarily open-sourced for the purpose of [our reseach project](https://yu1ut.com/InterCMDM-HP/).
+This repository contains materials developed by LY Corporation and is temporarily open-sourced for the purpose of [our research project](https://yu1ut.com/InterCMDM-HP/).
  
 - **Temporary Release**: This repository is temporarily available as open-source. Therefore this repository may be turn into read-only or private anytime.
 - **Attribution**: All code and materials in this repository are owned by LY Corporation.
